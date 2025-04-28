@@ -1,0 +1,12 @@
+cd frontend => terminal 1
+	npm run dev(if project is react+vite)
+	npm run start(if project is on react)
+cd backend => terminal 2
+	node index.js
+
+important cautions
+=> you can deploy project on netlify, vercel, and digital ocean 
+=> npm run build in terminal 1
+=> build folder created in frontend
+=> move builder folder in backend 
+=> then you can deploy
